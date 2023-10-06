@@ -16,8 +16,8 @@ body {
 
 .img {
         border-radius: 50%;
-        width: 120px;
-        height: 120px;
+        width: 20%;
+        height: 20%;
 }
 
 
@@ -30,12 +30,12 @@ body {
 
 .styled-button button {
     
-    padding: 10px 80px;
+    padding: 10px 8%;
     border-radius: 16px;
     background-color: white;
     color: #1F2041;
     text-decoration: none;
-    margin-right: 24px;
+    margin-right: 5%;
     font-weight: bold;
     font-size: 16px;
 }
