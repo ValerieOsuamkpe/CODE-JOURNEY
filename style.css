@@ -5,38 +5,30 @@
 }
 
 body {
-    background-color: #1F2041;
+    background-color: #155EF1;
     color: white;
 }
 
 .wrapper {
             width: 90%;
-
 }
 
 .img {
         border-radius: 50%;
-        width: 20%;
-        height: 20%;
 }
-
-
 
 
 .text_wrapper {
     line-height: 1.5;
-    text-align: justify;
+    text-align: left;
 }
 
-.styled-button button {
-    
-    padding: 10px 8%;
-    border-radius: 16px;
+.button {
     background-color: white;
-    color: #1F2041;
+    color: #1B5FBB;
+    padding: 10px 24px;
     text-decoration: none;
-    margin-right: 24px;
+    border-radius: 16px;
     font-weight: bold;
-    font-size: 16px;
 }
 
