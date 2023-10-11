@@ -38,6 +38,7 @@ body {
 }
 .text_wrapper p {
     font-size: 1.2rem;
+    font-weight: 400;
 }
 
 .button {
