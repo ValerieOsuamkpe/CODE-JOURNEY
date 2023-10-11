@@ -8,15 +8,14 @@
 
 body {
     font-family: 'Ubuntu', sans-serif;
-    
-    color: white;
     padding-left: 3%;
 }
 
 .wrapper {
-            width: 29%;
+            width: 28.3%;
             background-color: #155EF1;
-            padding: 2rem;
+            color: white;
+            padding: 2.5rem;
 }
 
 .wrapper h5 {
