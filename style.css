@@ -4,44 +4,56 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
 }
 
-body {
-    font-family: 'Ubuntu', sans-serif;
-    
-}
 
 .wrapper {
             width: 28.3%;
             background-color: #155EF1;
-            color: white;
-            padding: 2.5rem;
+            padding: 2.5rem
 }
 
-.wrapper h5 {
-    font-size: 1.2rem;
-    font-weight: 500;
+.img-container {
+    margin-bottom: 0.5rem;
 }
+
 
 .img {
         border-radius: 50%;
+        width: 32%;
+}
+
+.wrapper h1 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+}
+
+small{
+    font-weight: 200
 }
 
 
 .text_wrapper {
-    line-height: 1.5;
+    line-height: ;
     text-align: left;
 }
 
 .text_wrapper h2 {
     font-size: 1.5rem;
+    margin-top: 2.2rem;
+    margin-bottom: 0.5rem;
 }
 .text_wrapper p {
     font-size: 1.2rem;
-    font-weight: 400;
+    font-weight: 300;
+    margin-bottom: 2rem;
 }
 
 .button {
+    width: 50%;
     background-color: white;
     color: #1B5FBB;
     padding: 0.75rem 12%;
@@ -49,4 +61,5 @@ body {
     border-radius: 20px;
     font-weight: 700;
     font-size: 1.3rem;
+
 }
